@@ -1,0 +1,11 @@
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\Example.OCR.exe
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\Example.OCR.pdb
+C:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\OCR\obj\Debug\Example.OCR.exe
+C:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\OCR\obj\Debug\Example.OCR.pdb
+C:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\OCR\obj\Debug\OCR.OCRForm.resources
+C:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\OCR\obj\Debug\OCR.csproj.GenerateResource.Cache
+C:\Users\PC01\Documents\OCR_Test\obj\Debug\Example.OCR.exe
+C:\Users\PC01\Documents\OCR_Test\obj\Debug\Example.OCR.pdb
+C:\Users\PC01\Documents\OCR_Test\obj\Debug\OCR.csprojResolveAssemblyReference.cache
+C:\Users\PC01\Documents\OCR_Test\obj\Debug\OCR.OCRForm.resources
+C:\Users\PC01\Documents\OCR_Test\obj\Debug\OCR.csproj.GenerateResource.Cache

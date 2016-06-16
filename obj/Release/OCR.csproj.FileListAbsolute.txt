@@ -1,0 +1,16 @@
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\tessdata\eng.cube.bigrams
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\tessdata\eng.cube.fold
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\tessdata\eng.cube.lm
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\tessdata\eng.cube.nn
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\tessdata\eng.cube.params
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\tessdata\eng.cube.size
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\tessdata\eng.cube.word-freq
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\tessdata\eng.tesseract_cube.nn
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\tessdata\eng.traineddata
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\Example.OCR.exe
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\Example.OCR.pdb
+C:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\OCR\obj\Release\OCR.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\OCR\obj\Release\OCR.OCRForm.resources
+C:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\OCR\obj\Release\OCR.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\OCR\obj\Release\Example.OCR.exe
+C:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\OCR\obj\Release\Example.OCR.pdb
